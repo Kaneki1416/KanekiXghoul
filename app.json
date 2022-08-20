@@ -80,7 +80,7 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "https://telegra.ph/file/9226c0a375f50ba405e17.jpg",
+      "value": "https://telegra.ph/file/12d5b31d49b00b20f5f87.jpg",
       "required": false
     },
     "ALIVE_EMOJI": {
@@ -90,12 +90,12 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙆𝙖𝙣𝙚𝙠𝙞𝙓𝙜𝙝𝙤𝙪𝙡†.",
+      "value": "Zesh ! ! @MrKenKaneki - you know what ! ! One Day We'll Meet { Again }.",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/9226c0a375f50ba405e17.jpg",
+      "value": "https://telegra.ph/file/12d5b31d49b00b20f5f87.jpg",
       "required": false
     },
     "PM_MSG": {
