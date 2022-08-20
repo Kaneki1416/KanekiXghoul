@@ -1,5 +1,6 @@
 <h1 align="center">
 <b> 『𝙆𝙖𝙣𝙚𝙠𝙞𝙓𝙜𝙝𝙤𝙪𝙡†』🇮🇳 </b>
+<b> 『Note : bot is a clone of legendub』🇮🇳 </b>
 </h1>
 
 [![LEGENDBOT](https://telegra.ph/file/9226c0a375f50ba405e17.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
@@ -22,7 +23,7 @@
 <a href="https://github.com/LEGEND-OS/LEGENDBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/MrKenKaneki" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
