@@ -1,7 +1,8 @@
 <h1 align="center">
 <b> 『𝙆𝙖𝙣𝙚𝙠𝙞𝙓𝙜𝙝𝙤𝙪𝙡†』🇮🇳 </b>
-<b> 『Note : bot is a clone of legendub』🇮🇳 </b>
 </h1>
+<b> 『Note : bot is a clone of legendub』🇮🇳 </b>
+</h8>
 
 [![LEGENDBOT](https://telegra.ph/file/9226c0a375f50ba405e17.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
