@@ -68,7 +68,7 @@
 `git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
 - Open Cloned Folder.
 
-`cd LEGENDUSERBOT`
+`cd 𝙆𝙖𝙣𝙚𝙠𝙞𝙓𝙜𝙝𝙤𝙪𝙡†`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
