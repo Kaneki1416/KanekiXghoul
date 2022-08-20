@@ -5,7 +5,7 @@
 [![LEGENDBOT](https://telegra.ph/file/9226c0a375f50ba405e17.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ 𝙆𝙖𝙣𝙚𝙠𝙞𝙓𝙜𝙝𝙤𝙪𝙡 Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <p align="center">
